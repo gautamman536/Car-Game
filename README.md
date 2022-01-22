@@ -1,2 +1,2 @@
-# Car-Game
-This is a game where you race another person.
+# C42RV_SpeedRacer_StudentActivity
+Student Activity
